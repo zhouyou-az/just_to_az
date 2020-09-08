@@ -37,8 +37,8 @@
 <body>
 
     <div style="position: absolute;">
-        <audio src="https://www.w3school.com.cn/i/horse.ogg" autoplay="autoplay" loop="loop"
-            controls="controls">
+        <audio src="http://music.163.com/song/media/outer/url?id=1387607550.mp3" autoplay="autoplay" loop="loop"
+            id="myaudio" controls="controls">
             Your browser does not support the audio element.
         </audio></div>
     <canvas id="c" style="position: absolute;z-index: -1;text-align: center;"></canvas>
@@ -46,5 +46,11 @@
     <div id="main"></div>
 
 </body>
+<script>
+    $(document).ready(function () {
+        var myaudio = document.getElementById('myaudio')
+        myaudio.play() 
+});  
+</script>
 
 </html>
