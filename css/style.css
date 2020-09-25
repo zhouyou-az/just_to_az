@@ -20,7 +20,7 @@ body {
   background: #16A085;
   font-family: "Quicksand", sans-serif;
   color: #666;
-  overflow: hidden;
+  /* overflow: hidden; */
   background: #E0EAFC;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #E0EAFC, #CFDEF3);
