@@ -4,7 +4,10 @@
   font-weight: 100;
   src: local(※), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/383755/wayfarer-regular-webfont.woff) format("woff");
 }
-
+*{
+  margin:0;
+  padding:0
+}
 body {
   width: 100vw;
   height: 100vh;
