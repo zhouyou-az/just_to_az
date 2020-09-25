@@ -21,9 +21,9 @@ function openLetter() {
       delay: 0
     });
 
-    tl2.to(".upper", 0.5, { x: 0, transformOrigin: "50% 100%", rotationX: 0, delay: 0, height: 125, ease: Circ.easeIn });
-    tl2.to(".letter", 0.5, { x: 0, y: 0, rotationX: 0, scaleY: 0.5, delay: 0, ease: Expo.easeOut });
-    tl2.to(".topfold", 0.3, { transformOrigin: "50% 0%", scaleY: 1, delay: 0, ease: Circ.easeIn })
+    tl2.to(".upper", 1, { x: 0, transformOrigin: "50% 100%", rotationX: 0, delay: 0, height: 125, ease: Circ.easeIn });
+    tl2.to(".letter", 1, { x: 0, y: 0, rotationX: 0, scaleY: 0.5, delay: 0, ease: Expo.easeOut });
+    tl2.to(".topfold", 0.6, { transformOrigin: "50% 0%", scaleY: 1, delay: 0, ease: Circ.easeIn });
     flag = true;
   }
 
