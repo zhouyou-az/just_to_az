@@ -8,13 +8,10 @@
   margin:0;
   padding:0
 }
-html{
-  overflow: hidden;
-}
+
 body {
-  width: 100vw;
-  height: 100vh;
-  margin:0px;
+  width: 100vw; height: 100vh;
+ 
  
   display: -webkit-box;
   display: -ms-flexbox;
@@ -42,7 +39,7 @@ body .wrapper {
   max-width: 400px;
   height: auto;
   position: relative;
-  margin-top: 20%;
+  /* margin-top: 20%; */
   -webkit-perspective: 800px;
           perspective: 800px;
 }
