@@ -6,28 +6,67 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>blue</title>
     <style type="text/css">
-        * {
-            margin: 0;
-            padding: 0;
+        .heart {
+            margin: 100px auto;
+            width: 200px;
+            height: 200px;
+            /* border: 1px solid #0094ff; */
+            position: relative;
+            animation-name: shake;
+            animation-duration: .5s;
+            animation-iteration-count: infinite;
         }
 
-        body {
+        .heart div {
+            /* border: 1px solid #0094ff; */
             width: 100%;
             height: 100%;
-            overflow: hidden;
-        }
-
-        #main {
             position: absolute;
-            top: 200px;
-            left: 35%;
-            cursor: pointer;
+            background: pink;
+            animation-name: shadow;
+            animation-duration: .5s;
+            animation-iteration-count: infinite;
         }
 
-        #main:hover {}
+        .topLeft,
+        .topRight {
+            border-radius: 100px 100px 0 0;
+        }
 
-        x
+        .topLeft {
+            transform: translate(-50px, 0) rotate(-45deg);
+        }
+
+        .topRight {
+            transform: translate(50px, 0) rotate(45deg);
+        }
+
+        .bottom-my {
+            transform: translate(0, 64px) rotate(45deg) scale(.9, .9);
+        }
+
+        /* 定义动画 */
+
+        @keyframes shake {
+            from {
+                transform: scale(.1, .1);
+            }
+
+            to {
+                transform: scale(.15, .15);
+            }
+        }
+
+        @keyframes shadow {
+            from {}
+
+            to {
+                box-shadow: 0px 0px 50px pink;
+            }
+        }
     </style>
+    <link rel="stylesheet" href="css/style.css">
+
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/canvas_bg.js"></script>
@@ -42,15 +81,77 @@
             Your browser does not support the audio element.
         </audio></div>
     <canvas id="c" style="position: absolute;z-index: -1;text-align: center;"></canvas>
+    <div style="position: absolute;display: none;">
+        <audio src="http://music.163.com/song/media/outer/url?id=1387607550.mp3" autoplay="autoplay" loop="loop"
+            id="myaudio" controls="controls">
+            Your browser does not support the audio element.
+        </audio></div>
+    <canvas id="c" style="position: absolute;z-index: -1;text-align: center;"></canvas>
 
-    <div id="main"></div>
+    <div class="wrapper" style="margin-top:0%;position: relative;">
+
+        <div style="position: absolute;width: 100%;height:100%;
+        top: 0;
+        left: 0;
+        z-index: 10;display: flex;justify-content: center;align-items: center;cursor: pointer   ;" onclick="openLetter()">
+            <div class="heart" >
+                <div class='topLeft'></div>
+                <div class='topRight'></div>
+                <div class='bottom-my'></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="topfold">
+            </div>
+            <div class="letter">
+                <div class="upper">
+                    <div class="front">
+                         <br>
+                         <br>
+                         <br>
+                        <h1 style="color:#87CEFA">在所有流动</h1>
+                        <h1 style="color:#87CEFA"> 或定格的时间里</h1>
+                        <h1>我都很喜欢你</h1>
+                    </div>
+                    <div class="back">
+                    </div>
+                </div>
+                <!-- <form id="email"><input type="text"></input><span class="submitwrap"><input type="submit"
+                            value="DO IT" /></span></form> -->
+            </div>
+        </div>
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            x="0px" y="0px" viewBox="0 0 58 32" style="enable-background:new 0 0 58 32;" xml:space="preserve" storke>
+            <style type="text/css">
+                .st0 {
+                    fill: #87CEFA;
+                }
+
+                .st1 {
+                    fill: #87CEFA;
+                }
+            </style>
+            <g class="bottom">
+                <polygon class="st0" points="0,32 0,0 21,16 	" />
+                <polygon class="st0" points="58,32 58,0 37,16 	" />
+                <path class="st1"
+                    d="M57,31.2L37,16H21L1,31.2c-0.4,0.3-1,0-1-0.5V32h58v-1.3C58,31.2,57.4,31.5,57,31.2z" />
+            </g>
+        </svg>
+
+    </div>
+    <script src='js/jquery.min.js'></script>
+    <script src='js/TweenMax.min.js'></script>
+
+    <script src="js/index.js"></script>
+
 
 </body>
 <script>
     $(document).ready(function () {
         var myaudio = document.getElementById('myaudio')
-        myaudio.play() 
-});  
+        myaudio.play()
+    });  
 </script>
 
 </html>
