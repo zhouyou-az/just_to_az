@@ -137,23 +137,23 @@
 			<v:textRect cx="17.0079" cy="1641.78" width="34.02" height="12"/>
 			<rect x="0" y="1635.78" width="34.0157" height="12" class="st5"/>
 			<text x="5.01" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>界区外</text>		</g>
-		<g id="shape69-26" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(264.852,-787.849)">
+		<g id="shape69-26" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(264.852,-787.94)">
 			<title>动态连接线</title>
-			<path d="M0 1640.69 L69.59 1640.69" class="st7"/>
+			<path d="M0 1640.78 L126.28 1640.61" class="st7"/>
 		</g>
 		<g id="shape70-32" v:mID="70" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-1347.31,843.591) rotate(-90) scale(-1,1)">
+				transform="translate(-1321.8,843.591) rotate(-90) scale(-1,1)">
 			<title>直线连接线</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 1647.78 L7.94 1647.78" class="st9"/>
 		</g>
-		<g id="shape72-35" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(333.071,-839.906)">
+		<g id="shape72-35" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(388.964,-839.906)">
 			<title>动态连接线.72</title>
 			<path d="M7.09 1647.78 L7.09 1687.41" class="st7"/>
 		</g>
-		<g id="shape77-40" v:mID="77" v:groupContext="shape" transform="translate(342.375,-828.567)">
+		<g id="shape77-40" v:mID="77" v:groupContext="shape" transform="translate(398.268,-828.567)">
 			<title>工作表.77</title>
 			<desc>S-305</desc>
 			<v:userDefs>
@@ -164,7 +164,7 @@
 			<v:textRect cx="17.0079" cy="1645.31" width="34.02" height="4.93099"/>
 			<rect x="0" y="1642.85" width="34.0157" height="4.93099" class="st5"/>
 			<text x="5.58" y="1648.31" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>S-305</text>		</g>
-		<g id="shape78-43" v:mID="78" v:groupContext="shape" transform="translate(328.27,-840.585)">
+		<g id="shape78-43" v:mID="78" v:groupContext="shape" transform="translate(384.163,-840.585)">
 			<title>矩形.430</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
@@ -177,7 +177,7 @@
 			</g>
 			<rect x="0" y="1626.54" width="23.7744" height="21.2422" class="st13"/>
 		</g>
-		<g id="shape79-47" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(339.014,-838.808)">
+		<g id="shape79-47" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(394.908,-838.808)">
 			<title>动态连接线.431</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
@@ -185,15 +185,15 @@
 			</v:userDefs>
 			<path d="M1.14 1646 L1.14 1635.38 L13.03 1635.38" class="st14"/>
 		</g>
-		<g id="shape80-50" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(418.91,-858.292)">
+		<g id="shape80-50" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(474.803,-844.119)">
 			<title>动态连接线.432</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 1654.87 L-60.71 1654.87" class="st15"/>
+			<path d="M0 1640.69 L-60.71 1640.69" class="st15"/>
 		</g>
-		<g id="shape81-56" v:mID="81" v:groupContext="shape" transform="translate(362.217,-854.758)">
+		<g id="shape81-56" v:mID="81" v:groupContext="shape" transform="translate(418.11,-854.758)">
 			<title>工作表.81</title>
 			<desc>BW 锅炉给水</desc>
 			<v:userDefs>
