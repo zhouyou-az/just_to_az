@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- 由 Microsoft Visio, SVG Export 生成 zq.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.78072in" height="11.4864in"
-		viewBox="0 0 344.212 827.02" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="22.8858in"
+		viewBox="0 0 595.276 1647.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
 	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
@@ -21,7 +21,16 @@
 		.st7 {marker-end:url(#mrkr5-31);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st8 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.22935779816514}
 		.st9 {stroke:#ff0000;stroke-dasharray:2,4;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
-		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st10 {fill:#ffffff;font-family:Calibri;font-size:0.833336em}
+		.st11 {visibility:visible}
+		.st12 {fill:none;stroke:#cdcdcd;stroke-linecap:butt;stroke-opacity:0.5}
+		.st13 {fill:none;stroke:#d8d8d8;stroke-linecap:butt;stroke-width:0.5}
+		.st14 {stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st15 {marker-end:url(#mrkr5-55);stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st16 {fill:#00b050;fill-opacity:1;stroke:#00b050;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st17 {fill:#ffffff;font-family:Calibri;font-size:0.916672em}
+		.st18 {font-family:宋体;font-size:1em}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -39,13 +48,17 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
 		</marker>
+		<marker id="mrkr5-55" class="st16" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
 	</defs>
 	<g v:mID="6" v:index="1" v:groupContext="backgroundPage">
 		<v:userDefs>
 			<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
 		</v:userDefs>
 		<title>背景-1</title>
-		<v:pageProperties width="4.78072" height="11.4864" v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24"
+		<v:pageProperties width="8.26772" height="22.8858" v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24"
 				v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394"/>
 		<g id="shape43-1" v:mID="43" v:groupContext="shape">
 			<title>实心</title>
@@ -55,7 +68,7 @@
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
 				<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
 			</v:userDefs>
-			<rect x="0" y="0" width="344.212" height="827.02" class="st1"/>
+			<rect x="0" y="0" width="595.276" height="1647.78" class="st1"/>
 		</g>
 	</g>
 	<g v:mID="0" v:index="2" v:groupContext="foregroundPage">
@@ -71,9 +84,9 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.1983" cy="815.424" width="72.4" height="23.1926"/>
-			<rect x="0" y="803.828" width="72.3967" height="23.1926" class="st2"/>
-			<text x="26.2" y="818.42" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>OSBL</text>		</g>
+			<v:textRect cx="36.1983" cy="1636.18" width="72.4" height="23.1926"/>
+			<rect x="0" y="1624.59" width="72.3967" height="23.1926" class="st2"/>
+			<text x="26.2" y="1639.18" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>OSBL</text>		</g>
 		<g id="shape56-6" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(91.0052,-795.193)">
 			<title>多树枝直角</title>
 			<v:userDefs>
@@ -83,13 +96,13 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 827.02 L43.23 827.02" class="st4"/>
-			<path d="M43.23 827.02 L43.23 1093.48 L94.25 1093.48" class="st4"/>
-			<path d="M43.23 827.02 L43.23 1478.99 L129.57 1478.99" class="st4"/>
-			<path d="M43.23 827.02 L43.23 827.02 L101.45 827.02" class="st4"/>
-			<path d="M43.23 827.02 L43.23 1530.01 L129.57 1530.01" class="st4"/>
-			<path d="M43.23 827.02 L43.23 1581.04 L118.23 1581.04" class="st4"/>
-			<path d="M43.23 827.02 L43.23 1603.71 L101.22 1603.71" class="st4"/>
+			<path d="M0 1647.78 L43.23 1647.78" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 1914.24 L94.25 1914.24" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2299.75 L129.57 2299.75" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 1647.78 L101.45 1647.78" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2350.77 L129.57 2350.77" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2401.8 L118.23 2401.8" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2424.47 L101.22 2424.47" class="st4"/>
 		</g>
 		<g id="shape62-17" v:mID="62" v:groupContext="shape" transform="translate(192.456,-783.339)">
 			<title>工作表.62</title>
@@ -99,9 +112,9 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.1983" cy="815.424" width="72.4" height="23.1926"/>
-			<rect x="0" y="803.828" width="72.3967" height="23.1926" class="st2"/>
-			<text x="6.2" y="818.42" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>一联合一系列</text>		</g>
+			<v:textRect cx="36.1983" cy="1636.18" width="72.4" height="23.1926"/>
+			<rect x="0" y="1624.59" width="72.3967" height="23.1926" class="st2"/>
+			<text x="6.2" y="1639.18" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>一联合一系列</text>		</g>
 		<g id="shape63-20" v:mID="63" v:groupContext="shape" transform="translate(18.125,-769.02)">
 			<title>工作表.63</title>
 			<desc>低压蒸汽</desc>
@@ -110,9 +123,9 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.1983" cy="821.02" width="72.4" height="12"/>
-			<rect x="0" y="815.02" width="72.3967" height="12" class="st5"/>
-			<text x="20.2" y="823.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>低压蒸汽</text>		</g>
+			<v:textRect cx="36.1983" cy="1641.78" width="72.4" height="12"/>
+			<rect x="0" y="1635.78" width="72.3967" height="12" class="st5"/>
+			<text x="20.2" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>低压蒸汽</text>		</g>
 		<g id="shape64-23" v:mID="64" v:groupContext="shape" transform="translate(92.126,-795.382)">
 			<title>工作表.64</title>
 			<desc>界区外</desc>
@@ -121,20 +134,76 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="17.0079" cy="821.02" width="34.02" height="12"/>
-			<rect x="0" y="815.02" width="34.0157" height="12" class="st5"/>
-			<text x="5.01" y="823.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>界区外</text>		</g>
+			<v:textRect cx="17.0079" cy="1641.78" width="34.02" height="12"/>
+			<rect x="0" y="1635.78" width="34.0157" height="12" class="st5"/>
+			<text x="5.01" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>界区外</text>		</g>
 		<g id="shape69-26" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(264.852,-787.849)">
 			<title>动态连接线</title>
-			<path d="M0 819.93 L48.32 819.93" class="st7"/>
+			<path d="M0 1640.69 L69.59 1640.69" class="st7"/>
 		</g>
 		<g id="shape70-32" v:mID="70" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-537.887,22.8315) rotate(-90) scale(-1,1)">
+				transform="translate(-1347.31,843.591) rotate(-90) scale(-1,1)">
 			<title>直线连接线</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 827.02 L7.94 827.02" class="st9"/>
+			<path d="M0 1647.78 L7.94 1647.78" class="st9"/>
 		</g>
+		<g id="shape72-35" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(333.071,-839.906)">
+			<title>动态连接线.72</title>
+			<path d="M7.09 1647.78 L7.09 1687.41" class="st7"/>
+		</g>
+		<g id="shape77-40" v:mID="77" v:groupContext="shape" transform="translate(342.375,-828.567)">
+			<title>工作表.77</title>
+			<desc>S-305</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="1645.31" width="34.02" height="4.93099"/>
+			<rect x="0" y="1642.85" width="34.0157" height="4.93099" class="st5"/>
+			<text x="5.58" y="1648.31" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>S-305</text>		</g>
+		<g id="shape78-43" v:mID="78" v:groupContext="shape" transform="translate(328.27,-840.585)">
+			<title>矩形.430</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow78-44" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st11">
+				<rect x="0" y="1626.54" width="23.7744" height="21.2422" class="st12"/>
+			</g>
+			<rect x="0" y="1626.54" width="23.7744" height="21.2422" class="st13"/>
+		</g>
+		<g id="shape79-47" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(339.014,-838.808)">
+			<title>动态连接线.431</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M1.14 1646 L1.14 1635.38 L13.03 1635.38" class="st14"/>
+		</g>
+		<g id="shape80-50" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(418.91,-858.292)">
+			<title>动态连接线.432</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1654.87 L-60.71 1654.87" class="st15"/>
+		</g>
+		<g id="shape81-56" v:mID="81" v:groupContext="shape" transform="translate(362.217,-854.758)">
+			<title>工作表.81</title>
+			<desc>BW 锅炉给水</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.8206" cy="1636.18" width="51.65" height="23.1926"/>
+			<rect x="0" y="1624.59" width="51.6411" height="23.1926" class="st5"/>
+			<text x="2" y="1632.16" class="st17" v:langID="2052"><v:paragraph/><v:tabList/>BW <v:newlineChar/><tspan x="2"
+						dy="1.298em" class="st18">锅炉给水</tspan></text>		</g>
 	</g>
 </svg>
