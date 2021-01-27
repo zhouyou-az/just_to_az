@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 zq3.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.0354in" height="22.8858in"
+		viewBox="0 0 1154.55 1647.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st24">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#404040;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#ffffff;font-family:宋体;font-size:0.833336em}
+		.st4 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st6 {fill:#ffffff;font-family:宋体;font-size:0.666664em}
+		.st7 {marker-end:url(#mrkr5-31);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st9 {stroke:#ff0000;stroke-dasharray:2,4;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st10 {fill:#ffffff;font-family:Calibri;font-size:0.833336em}
+		.st11 {marker-end:url(#mrkr5-48);stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st12 {fill:#00b050;fill-opacity:1;stroke:#00b050;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st13 {fill:#ffffff;font-family:Calibri;font-size:0.916672em}
+		.st14 {font-family:宋体;font-size:1em}
+		.st15 {visibility:visible}
+		.st16 {fill:none;stroke:#cdcdcd;stroke-linecap:butt;stroke-opacity:0.5}
+		.st17 {fill:none;stroke:#d8d8d8;stroke-linecap:butt;stroke-width:0.5}
+		.st18 {stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st19 {marker-end:url(#mrkr5-65);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st20 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st21 {fill:#d8d8d8}
+		.st22 {stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st23 {fill:#d8d8d8;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st24 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#f0f0f0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-31" class="st8" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr5-48" class="st12" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr5-65" class="st20" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="6" v:index="1" v:groupContext="backgroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>背景-1</title>
+		<v:pageProperties width="16.0354" height="22.8858" v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24"
+				v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394"/>
+		<g id="shape43-1" v:mID="43" v:groupContext="shape">
+			<title>实心</title>
+			<v:userDefs>
+				<v:ud v:nameU="Background" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(DoNotContain)"/>
+				<v:ud v:nameU="msvVisioCreated" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<rect x="0" y="0" width="1154.55" height="1647.78" class="st1"/>
+		</g>
+	</g>
+	<g v:mID="0" v:index="2" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="PEHideTags"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<v:layer v:name="阀门" v:index="1" v:print="false"/>
+		<g id="shape55-3" v:mID="55" v:groupContext="shape" transform="translate(18.125,-783.339)">
+			<title>工作表.55</title>
+			<desc>OSBL</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.1983" cy="1636.18" width="72.4" height="23.1926"/>
+			<rect x="0" y="1624.59" width="72.3967" height="23.1926" class="st2"/>
+			<text x="26.2" y="1639.18" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>OSBL</text>		</g>
+		<g id="shape56-6" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(91.0052,-795.193)">
+			<title>多树枝直角</title>
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1647.78 L43.23 1647.78" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 1914.24 L94.25 1914.24" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2299.75 L129.57 2299.75" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 1647.78 L101.45 1647.78" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2350.77 L129.57 2350.77" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2401.8 L118.23 2401.8" class="st4"/>
+			<path d="M43.23 1647.78 L43.23 2424.47 L101.22 2424.47" class="st4"/>
+		</g>
+		<g id="shape62-17" v:mID="62" v:groupContext="shape" transform="translate(192.456,-783.339)">
+			<title>工作表.62</title>
+			<desc>一联合一系列</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.1983" cy="1636.18" width="72.4" height="23.1926"/>
+			<rect x="0" y="1624.59" width="72.3967" height="23.1926" class="st2"/>
+			<text x="6.2" y="1639.18" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>一联合一系列</text>		</g>
+		<g id="shape63-20" v:mID="63" v:groupContext="shape" transform="translate(18.125,-769.02)">
+			<title>工作表.63</title>
+			<desc>低压蒸汽</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36.1983" cy="1641.78" width="72.4" height="12"/>
+			<rect x="0" y="1635.78" width="72.3967" height="12" class="st5"/>
+			<text x="20.2" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>低压蒸汽</text>		</g>
+		<g id="shape64-23" v:mID="64" v:groupContext="shape" transform="translate(92.126,-795.382)">
+			<title>工作表.64</title>
+			<desc>界区外</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="1641.78" width="34.02" height="12"/>
+			<rect x="0" y="1635.78" width="34.0157" height="12" class="st5"/>
+			<text x="5.01" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>界区外</text>		</g>
+		<g id="shape69-26" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(264.852,-787.94)">
+			<title>动态连接线</title>
+			<path d="M0 1640.78 L126.28 1640.61" class="st7"/>
+		</g>
+		<g id="shape70-32" v:mID="70" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-1321.8,843.591) rotate(-90) scale(-1,1)">
+			<title>直线连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 1647.78 L7.94 1647.78" class="st9"/>
+		</g>
+		<g id="shape72-35" v:mID="72" v:groupContext="shape" v:layerMember="0" transform="translate(388.964,-861.354)">
+			<title>动态连接线.72</title>
+			<path d="M7.09 1647.78 L7.09 1708.86" class="st7"/>
+		</g>
+		<g id="shape77-40" v:mID="77" v:groupContext="shape" transform="translate(398.268,-828.567)">
+			<title>工作表.77</title>
+			<desc>S-305</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="1645.31" width="34.02" height="4.93099"/>
+			<rect x="0" y="1642.85" width="34.0157" height="4.93099" class="st5"/>
+			<text x="5.58" y="1648.31" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>S-305</text>		</g>
+		<g id="shape80-43" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(332.994,-879.061)">
+			<title>动态连接线.432</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1654.87 L45.01 1654.87" class="st11"/>
+		</g>
+		<g id="shape81-49" v:mID="81" v:groupContext="shape" transform="translate(331.345,-873.921)">
+			<title>工作表.81</title>
+			<desc>BW 锅炉给水</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.8206" cy="1636.18" width="51.65" height="23.1926"/>
+			<rect x="0" y="1624.59" width="51.6411" height="23.1926" class="st5"/>
+			<text x="2" y="1632.16" class="st13" v:langID="2052"><v:paragraph/><v:tabList/>BW <v:newlineChar/><tspan x="2"
+						dy="1.298em" class="st14">锅炉给水</tspan></text>		</g>
+		<g id="shape78-53" v:mID="78" v:groupContext="shape" transform="translate(384.163,-861.354)">
+			<title>矩形.430</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<g id="shadow78-54" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.44,1.44)" class="st15">
+				<rect x="0" y="1626.54" width="23.7744" height="21.2422" class="st16"/>
+			</g>
+			<rect x="0" y="1626.54" width="23.7744" height="21.2422" class="st17"/>
+		</g>
+		<g id="shape79-57" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(397.194,-859.577)">
+			<title>动态连接线.431</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M-1.14 1646 L-1.14 1635.38 L-13.03 1635.38" class="st18"/>
+		</g>
+		<g id="shape85-60" v:mID="85" v:groupContext="shape" v:layerMember="0" transform="translate(447.874,-879.061)">
+			<title>动态连接线.85</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1654.87 L-19.97 1654.87 L-19.97 1654.87 L-33.78 1654.87" class="st19"/>
+		</g>
+		<g id="shape86-66" v:mID="86" v:groupContext="shape" transform="translate(447.874,-860.378)">
+			<title>工作表.86</title>
+			<desc>P-402A(ST)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.1811" cy="1636.18" width="62.37" height="23.1926"/>
+			<rect x="0" y="1624.59" width="62.3622" height="23.1926" class="st2"/>
+			<text x="6.18" y="1639.18" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>P-402A(ST)</text>		</g>
+		<g id="shape87-69" v:mID="87" v:groupContext="shape" transform="translate(429.198,-848.409)">
+			<title>工作表.87</title>
+			<desc>半富液泵蒸汽透平</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="50" cy="1641.78" width="100" height="12"/>
+			<rect x="0" y="1635.78" width="100" height="12" class="st5"/>
+			<text x="18" y="1644.44" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>半富液泵蒸汽透平</text>		</g>
+		<g id="shape88-72" v:mID="88" v:groupContext="shape" v:layerMember="0" transform="translate(643.716,-879.061)">
+			<title>动态连接线.88</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1654.87 L-127.32 1654.87" class="st19"/>
+		</g>
+		<g id="group89-77" transform="translate(543.746,-860.153)" v:mID="89" v:groupContext="group" v:layerMember="0;1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="阀门类型" v:type="1" v:format="控制阀 1;控制阀 2;控制阀 3" v:langID="2052" v:val="VT4(控制阀 1)"/>
+				<v:cp v:nameU="Power" v:lbl="功率" v:type="1" v:format=" ;F;H;M;P;S" v:langID="2052" v:val="VT4( )"/>
+				<v:cp v:nameU="Description" v:lbl="说明" v:type="0" v:sortKey="0" v:langID="2052"/>
+				<v:cp v:nameU="LineSize" v:lbl="管道尺寸" v:type="0" v:sortKey="1" v:langID="2052"/>
+				<v:cp v:nameU="ValveClass" v:lbl="阀门种类" v:type="0" v:sortKey="2" v:langID="2052"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="制造商" v:type="0" v:sortKey="3" v:langID="2052"/>
+				<v:cp v:nameU="Model" v:lbl="型号" v:type="0" v:sortKey="4" v:langID="2052"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Power" v:val="VT4( )"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+			</v:userDefs>
+			<title>动力阀.409</title>
+			<desc>XV30215</desc>
+			<g id="shape90-78" v:mID="90" v:groupContext="shape" v:layerMember="0;1" transform="translate(7.10686,-18.3594)">
+				<title>工作表.90</title>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Power" v:val="VT4( )"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Power" v:prompt="" v:val="VT4( )"/>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="4.73791" cy="1643.04" width="9.48" height="9.47582"/>
+				<path d="M0 1647.78 L9.48 1647.78 L9.48 1638.3 L0 1638.3 L0 1647.78 Z" class="st21"/>
+				<path d="M0 1647.78 L9.48 1647.78 L9.48 1638.3 L0 1638.3 L0 1647.78" class="st22"/>
+				<path d="M4.74 1647.78 L4.74 1654.29" class="st22"/>
+			</g>
+			<g id="shape89-82" v:mID="89" v:groupContext="groupContent" v:layerMember="0;1">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="11.8448" cy="1656.74" width="80" height="12.0036"/>
+				<path d="M0 1641.86 L0 1630.01 L23.69 1641.86 L23.69 1630.01 L0 1641.86 Z" class="st23"/>
+				<text x="-5.66" y="1659.74" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>XV30215</text>			</g>
+		</g>
+		<g id="shape91-85" v:mID="91" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-1038.33,765.921) rotate(-90) scale(-1,1)">
+			<title>直线连接线.91</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 1647.78 L7.94 1647.78" class="st9"/>
+		</g>
+		<g id="shape92-88" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(657.638,-907.087) scale(-1,1)">
+			<title>双树枝直角</title>
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 1647.78 L8.27 1647.78" class="st4"/>
+			<path d="M8.27 1647.78 L8.27 1682.93 L14.17 1682.93" class="st4"/>
+			<path d="M8.27 1647.78 L8.27 1618.3 L14.17 1618.3" class="st4"/>
+		</g>
+		<g id="shape93-93" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(643.716,-943.653)">
+			<title>动态连接线.93</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 1654.87 L-127.32 1654.87" class="st19"/>
+		</g>
+		<g id="group94-98" transform="translate(542.203,-924.783)" v:mID="94" v:groupContext="group" v:layerMember="0;1">
+			<v:custProps>
+				<v:cp v:nameU="SubType" v:lbl="阀门类型" v:type="1" v:format="控制阀 1;控制阀 2;控制阀 3" v:langID="2052" v:val="VT4(控制阀 1)"/>
+				<v:cp v:nameU="Power" v:lbl="功率" v:type="1" v:format=" ;F;H;M;P;S" v:langID="2052" v:val="VT4( )"/>
+				<v:cp v:nameU="Description" v:lbl="说明" v:type="0" v:sortKey="0" v:langID="2052"/>
+				<v:cp v:nameU="LineSize" v:lbl="管道尺寸" v:type="0" v:sortKey="1" v:langID="2052"/>
+				<v:cp v:nameU="ValveClass" v:lbl="阀门种类" v:type="0" v:sortKey="2" v:langID="2052"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="制造商" v:type="0" v:sortKey="3" v:langID="2052"/>
+				<v:cp v:nameU="Model" v:lbl="型号" v:type="0" v:sortKey="4" v:langID="2052"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Power" v:val="VT4( )"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TextCH" v:prompt="Determines text control handle visibility." v:val="VT0(5):26"/>
+				<v:ud v:nameU="SOLSH" v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PETagFormat" v:prompt="V-0" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PETagNumber"/>
+				<v:ud v:nameU="PEHideTag"/>
+				<v:ud v:nameU="PEPageHideTags" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PELayout" v:val="VT0(31):26"/>
+				<v:ud v:nameU="CPMSetList" v:prompt="Description,LineSize,ValveClass,Manufacturer,Model" v:val="VT4(阀门)"/>
+				<v:ud v:nameU="PEComponentTag" v:val="VT4(V-0)"/>
+				<v:ud v:nameU="TextCH" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+			</v:userDefs>
+			<title>动力阀.94</title>
+			<desc>XV30215</desc>
+			<g id="shape95-99" v:mID="95" v:groupContext="shape" v:layerMember="0;1" transform="translate(7.10686,-18.3594)">
+				<title>工作表.95</title>
+				<v:userDefs>
+					<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Power" v:val="VT4( )"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Power" v:prompt="" v:val="VT4( )"/>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="4.73791" cy="1643.04" width="9.48" height="9.47582"/>
+				<path d="M0 1647.78 L9.48 1647.78 L9.48 1638.3 L0 1638.3 L0 1647.78 Z" class="st21"/>
+				<path d="M0 1647.78 L9.48 1647.78 L9.48 1638.3 L0 1638.3 L0 1647.78" class="st22"/>
+				<path d="M4.74 1647.78 L4.74 1654.29" class="st22"/>
+			</g>
+			<g id="shape94-103" v:mID="94" v:groupContext="groupContent" v:layerMember="0;1">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="11.8448" cy="1656.74" width="80" height="12.0036"/>
+				<path d="M0 1641.86 L0 1630.01 L23.69 1641.86 L23.69 1630.01 L0 1641.86 Z" class="st23"/>
+				<text x="-5.66" y="1659.74" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>XV30215</text>			</g>
+		</g>
+		<g id="shape96-106" v:mID="96" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-1039.87,701.291) rotate(-90) scale(-1,1)">
+			<title>直线连接线.96</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 1647.78 L7.94 1647.78" class="st9"/>
+		</g>
+	</g>
+</svg>
